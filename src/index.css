@@ -1,0 +1,99 @@
+* {
+  background-color: #000000;
+  color : #ffffff;
+}
+
+.heading { 
+  padding-top: 5%;
+  padding-left: 5%;
+}
+
+.h-text {
+  font-size: 2.5rem;
+}
+
+.h2-text {
+  font-size: 2rem;
+}
+
+.top-pics {
+  padding-top: 5%;
+  padding-left: 5%;
+}
+
+.video {
+  text-align: center;
+}
+
+.card {
+  width: 200px;
+  height: 300px;
+  background-color:green;
+  display: inline-block;
+  margin-left: 60px;
+  border-radius: 10px;
+}
+
+.card-head {
+  padding: 0% 2%;
+}
+
+.card-img {
+  background-image: url('https://i.ytimg.com/vi/YxWlaYCA8MU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALnJ7IheE9Y6XgTRGJQ-j9l9CpaA');
+  background-repeat: no-repeat;
+  background-position:right;
+  background-size:cover;
+  opacity: 50%;
+}
+
+.card-img1 {
+  background-image: url('https://i.ytimg.com/vi/7TRFf7uUfhQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1n7wfgxD8SsjxMDa12CfY2TQ-nA');
+  background-repeat: no-repeat;
+  background-position:left;
+  background-size:cover;
+  opacity: 50%;
+}
+
+.card-img2 {
+  background-image: url('https://i.ytimg.com/vi/IMg_UUJVpMo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzlHs1aT77gDDM3SMr0Bg_uBp-bQ');
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size:cover;
+  opacity: 50%;
+}
+.card-img3 {
+  background-image: url('https://i.ytimg.com/vi/2zMZYjKWZkY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGPhV3YwKOujiz3UzN-wJvByuWxg');
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size:cover;
+  opacity: 50%;
+}
+.card-img4 {
+  background-image: url('https://i.ytimg.com/vi/VAdGW7QDJiU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuWEgODadHW9uxh7WbkyUTmcpcOA');
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size:cover;
+  opacity: 50%;
+}
+
+.explore {
+  width: 1200px;
+  background: linear-gradient(180deg, green, black);
+  background-color:green;
+  height: 600px;
+  margin: auto;
+  border-radius: 20px;
+  opacity: 50%;
+}
+
+.strips {
+  background-color: #ffffff;
+  width: 850px;
+  height: 65px;
+  position: relative;
+  top: 10%;
+  left:1%;
+  z-index: 999;
+  opacity: 100%;
+  border-radius: 10px;
+}
